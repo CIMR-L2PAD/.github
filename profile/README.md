@@ -63,7 +63,7 @@ CIMR is the Copernicus Imaging Microwave Radiometer mission, a multi-frequency, 
 designed by ESA to support EU's Arctic Policy, among others. Its launch is scheduled in 2029.
 More info about CIMR [here](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Copernicus_Sentinel_Expansion_missions).
 
-![CIMR in flight (artist view, source: ESA/mlabspace](./profile/static_imgs/CIMR_inflight.jpg)
+![CIMR in flight (artist view, credit: ESA/mlabspace)](./profile/static_imgs/CIMR_inflight.jpg)
 
 ESA has prepared videos introducing the mission, find them [here](https://www.esa.int/esatv/content/search?SearchText=CIMR&result_type=videos_broadcast&SearchButton=Go).
 
