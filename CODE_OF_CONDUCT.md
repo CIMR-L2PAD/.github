@@ -2,7 +2,7 @@
 
 CIMR L2PAD is dedicated to creating a welcoming, supportive and diverse
 community of enthusiasts, experts, and users around the the Copernicus Imaging
-Microwave Radiometer (CIMR) satellite mission. The primary focus of our community
+Microwave Radiometer (CIMR) satellite mission. The primary focus of this community
 is to develop and improve algorithms and prototype ground-processing software for
 the CIMR Level-2 products.
 
