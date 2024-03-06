@@ -75,7 +75,7 @@ The CIMR L2PAD project is implemented by a consortium of European and Canadian p
 lead of the Norwegian Meteorological Institute (METNO). CIMR L2PAD started in November 2023, and
 is initially planned to last four years (2023-2027).
 
-![The CIMR L2PAD consortium](./profile/static_images/CIMRL2PAD_Consortium_Logos.png)
+![The CIMR L2PAD consortium](./profile/static_imgs/CIMRL2PAD_Consortium_Logos.png)
 
 
 This webpage was developed in the context of the ESA-funded CIMR L2PAD project (2023-2027) (ESA 4000143081/23/I-NS).
