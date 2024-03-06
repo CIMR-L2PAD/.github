@@ -19,7 +19,7 @@ are available. Repositories holding the ATBDs and prototype algorithms will be a
 ### Level-2 variables covered by CIMR L2PAD
 
 The CIMR L2PAD project focuses on Level-2 products under ESA's operational responsibility, that is
-Level-2 products in the *Polar Oceans* (incl. sea ice) and *Global Lannd* (incl. lakes) family. The
+Level-2 products in the *Polar Oceans* (incl. sea ice) and *Global Land* (incl. lakes) family. The
 *Global Oceans* and *Atmosphere* products are not covered, as they are under EUMETSAT's operational
 responsibility.
 
