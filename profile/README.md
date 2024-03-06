@@ -1,14 +1,13 @@
 ## The ESA CIMR L2PAD project
 
-The Level-2 Product Algorithm Development (L2PAD) project is a four-years activity initiated by the
+The Level-2 Product Algorithm Development (L2PAD) project is a four-year (2023-2027) activity initiated by the
 European Space Agency (ESA) to prepare Level-2 algorithms and Ground Processing Prototype (GPP) for
 the Copernicus Imaging Microwave Radiometer (CIMR) mission.
 
 <img src="./profile/static_imgs/CIMRL2PAD_logo_blue_lite.png" alt="The CIMR L2PAD logo" width="512" class="center">
 
 The CIMR L2PAD project is implemented by a consortium of European and Canadian partners, under the
-lead of the Norwegian Meteorological Institute (METNO). CIMR L2PAD started in November 2023, and
-is initially planned to last four years (2023-2027).
+lead of the Norwegian Meteorological Institute (METNO). CIMR L2PAD started in late 2023.
 
 All software, data, and algorithm documentations from CIMR L2PAD will be open, in particular the 
 Algorithm Theoretical Basis Documents (ATBDs) and the Level-2 prototype algorithms and GPP.
