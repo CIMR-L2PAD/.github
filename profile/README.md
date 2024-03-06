@@ -16,6 +16,23 @@ Algorithm Theoretical Basis Documents (ATBDs) and the Level-2 prototype algorith
 This page serves as a public entry-point for the project and its results. It will be developed further as results
 are available. Repositories holding the ATBDs and prototype algorithms will be available at the bottom of this page.
 
+### The CIMR L2PAD community: interacting with us
+
+We are looking forward to creating a welcoming, supportive and diverse community of enthusiasts, experts, and users
+around the the Copernicus Imaging Microwave Radiometer (CIMR) satellite mission. The primary focus of this community
+is to develop and improve algorithms and prototype ground-processing software for the CIMR Level-2 products.
+
+We do not have much to share at this point, but do not hesitate to contact us while we get started 😅.
+
+At this stage, we are not ready to answer detailed questions about the algorithms we will use, nor how the Level-2 products
+from the CIMR L2 GPP will look like. We are also not ready to take on board community contributions.
+
+But this time will eventually come, so please visit our [Discussions page](https://github.com/orgs/CIMR-L2PAD/discussions) to say
+'hi', ask your questions, and stay informed about our progress.
+
+*Important:* This is a community we build together. Please be welcoming, open minded, and respectful in your interactions, and adhere
+to our [code of conduct](./CODE_OF_CONDUCT.md).
+
 ### Level-2 variables covered by CIMR L2PAD
 
 The CIMR L2PAD project focuses on Level-2 products under ESA's operational responsibility, that is
