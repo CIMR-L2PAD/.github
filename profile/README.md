@@ -77,9 +77,32 @@ Depending on the Level-2 product, different delivery timeliness are specified:
 
 CIMR is the Copernicus Imaging Microwave Radiometer mission, a multi-frequency, conically-scanning passive microwave imager
 designed by ESA to support EU's Arctic Policy, among others. Its launch is scheduled in 2029.
-More info about CIMR [here](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Copernicus_Sentinel_Expansion_missions).
 
 ![CIMR in flight (artist view, credit: ESA/mlabspace)](./profile/static_imgs/CIMR_inflight.jpg)
+
+CIMR is a satellite system developed as part of the European Union Copernicus program Expansion activities. CIMR is designed to
+monitor the rapid Earth system changes taking place in the Arctic in response to the Integrated European Policy for the Arctic.
+Monitoring the rapid changes of the Arctic environment and polar regions in general (including Greenland and Antarctica), is a key
+objective for a Copernicus Polar Observing System as specified in Reports of the Polar Expert
+Group (PEG) on User Requirements. Prioritized users’ needs expressed by the European Commission Polar Expert Group (PEG) are
+the foundation of the CIMR mission that is fully described in the [CIMR Mission Requirement Document v5](https://esamultimedia.esa.int/docs/EarthObservation/CIMR-MRD-v5.0-20230211_(Issued).pdf).
+
+The aim of the mission is to:
+> Provide high-spatial resolution microwave imaging radiometry
+> measurements and derived products with global coverage and sub-daily
+> revisit in the polar regions and adjacent seas to address Copernicus
+> users’ needs.
+
+The CIMR instrument technical solution is based on a multi-channel conically scanning microwave imaging radiometer. The radiometer is optimised with low noise channels at
+unprecedented spatial resolution centered in L- (<60 km), C- (≤15 km), X- (≤15 km), Ka- (≤5 km) and Ku-band (<5km, goal=4 km). A conically scanning design allows a very
+large swath of nearly 2000 km allowing sub-daily coverage of the Arctic region and 95%
+coverage of the Earth each day using a single satellite. To achieve high spatial resolution, a
+large ~8m diameter deployable mesh reflector is implemented. Multiple dual-frequency
+linearly polarised state of the art receivers are implemented to minimise the rotation rate of
+the reflector and on-board active cold-load calibration devices maintain a low total standard
+uncertainty of all measurements.
+
+More info about CIMR and the other Copernicus Expansion missions [here](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Copernicus_Sentinel_Expansion_missions).
 
 ESA has prepared videos introducing the mission, find them [here](https://www.esa.int/esatv/content/search?SearchText=CIMR&result_type=videos_broadcast&SearchButton=Go).
 
