@@ -4,7 +4,7 @@ The Level-2 Product Algorithm Development (L2PAD) project is a four-year (2023-2
 [European Space Agency (ESA)](https://www.esa.int/) to prepare *Polar Oceans* and *Global Land* Level-2 algorithms and Ground Processing Prototype (GPP) software
 for the Copernicus Imaging Microwave Radiometer (CIMR) Expansion mission.
 
-<img src="./profile/static_imgs/CIMRL2PAD_logo_blue_lite.png" alt="The CIMR L2PAD logo" width="512" class="center">
+<img src="./static_imgs/CIMRL2PAD_logo_blue_lite.png" alt="The CIMR L2PAD logo" width="512" class="center">
 
 The CIMR L2PAD project is implemented by a consortium of European and Canadian partners, under the
 lead of the Norwegian Meteorological Institute (METNO). CIMR L2PAD started in late 2023.
@@ -78,7 +78,7 @@ Depending on the Level-2 product, different delivery timeliness are specified:
 CIMR is the Copernicus Imaging Microwave Radiometer mission, a multi-frequency, conically-scanning passive microwave imager
 designed by ESA to support EU's Arctic Policy, among others. Its launch is scheduled in 2029.
 
-![CIMR in flight (artist view, credit: ESA/mlabspace)](./profile/static_imgs/CIMR_inflight.jpg)
+![CIMR in flight (artist view, credit: ESA/mlabspace)](./static_imgs/CIMR_inflight.jpg)
 
 CIMR is a satellite system developed as part of the European Union Copernicus program Expansion activities. CIMR is designed to
 monitor the rapid Earth system changes taking place in the Arctic in response to the Integrated European Policy for the Arctic.
@@ -114,7 +114,7 @@ The CIMR L2PAD project is implemented by a consortium of European and Canadian p
 lead of the Norwegian Meteorological Institute (METNO). CIMR L2PAD started in November 2023, and
 is initially planned to last four years (2023-2027).
 
-![The CIMR L2PAD consortium](./profile/static_imgs/CIMRL2PAD_Consortium_Logos.png)
+![The CIMR L2PAD consortium](./static_imgs/CIMRL2PAD_Consortium_Logos.png)
 
 
 This webpage was developed in the context of the ESA-funded CIMR L2PAD project (2023-2027) (ESA 4000143081/23/I-NS).
